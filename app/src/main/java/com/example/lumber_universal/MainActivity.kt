@@ -8,6 +8,10 @@ import com.facebook.react.defaults.DefaultReactActivityDelegate
 
 class MainActivity : ReactActivity() {
 
+  /**
+   * This is a fix to prevent the app from showing a default native screen.
+   * It ensures that the React Native view is the only thing that loads.
+   */
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(null)
   }
