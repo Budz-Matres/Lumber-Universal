@@ -10,7 +10,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.lumber_universal"
+        applicationId = "Lumber.Universal.Poke_app"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

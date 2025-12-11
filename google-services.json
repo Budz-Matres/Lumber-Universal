@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "256354670500",
+    "project_id": "lumber-universal",
+    "storage_bucket": "lumber-universal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256354670500:android:22cc8d2afa76183cd51331",
+        "android_client_info": {
+          "package_name": "Lumber.Universal.Poke_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP8LoBt0Ts0FXIWAwoAXEpz1dDy0pYWm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
